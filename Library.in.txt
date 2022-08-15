@@ -1,0 +1,36 @@
+CREAT_STUD_BST	105,100,103,109,101,108,107,104,102,106 
+ADD	Data Structures
+ADD	Compiler Construction
+ADD	Operating Systems
+ADD	Data Structures
+BORROW	101	Data Structures
+BORROW	107	Java Programming
+ADD	Java Programming
+ADD	Compiler Construction
+ADD	Data Structures
+ADD	Compiler Construction
+ADD	Operating Systems
+ADD	Research Methods
+ADD	Logic Design
+ADD	System Programming
+ADD	System Programming
+ADD	System Programming
+DISPLAY_ALL_BOOKS
+BORROW	101	System Programming
+BORROW	101	Compiler Construction
+ADD	Graphics
+DISPLAY_RECORD_OF	101
+BORROW	101	Operating Systems
+RETURN	101	System Programming
+BORROW	105	Logic Design
+RETURN	101	Compiler Construction
+RETURN	105	Logic Design
+
+
+
+
+
+
+
+
+

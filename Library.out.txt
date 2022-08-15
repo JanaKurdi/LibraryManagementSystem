@@ -1,0 +1,53 @@
+Student BST is successfully created
+Data Structures is added in the library: 1 copy in the library
+Compiler Construction is added in the library: 1 copy in the library
+Operating Systems is added in the library: 1 copy in the library
+Data Structures is added in the library: 2 copies in the library
+Data Structures is borrowed by Student 101
+Student 101 has borrowed 1 book
+1 copy of Data Structures is now available in the library
+Sorry, Java Programming is not available in the library
+Java Programming is added in the library: 1 copy in the library
+Compiler Construction is added in the library: 2 copies in the library
+Data Structures is added in the library: 2 copies in the library
+Compiler Construction is added in the library: 3 copies in the library
+Operating Systems is added in the library: 2 copies in the library
+Research Methods is added in the library: 1 copy in the library
+Logic Design is added in the library: 1 copy in the library
+System Programming is added in the library: 1 copy in the library
+System Programming is added in the library: 2 copies in the library
+System Programming is added in the library: 3 copies in the library
+The following books are in the library
+Compiler Construction: 3 copies
+Data Structures: 2 copies
+Java Programming: 1 copy
+Logic Design: 1 copy
+Operating Systems: 2 copies
+Research Methods: 1 copy
+System Programming: 3 copies
+---------------------------------------------
+System Programming is borrowed by Student 101
+Student 101 has borrowed 2 book
+2 copies of System Programming are now available in the library
+Compiler Construction is borrowed by Student 101
+Student 101 has borrowed 3 book
+2 copies of Compiler Construction are now available in the library
+Graphics is added in the library: 1 copy in the library
+101 has borrowed the following 3 books
+Compiler Construction
+System Programming
+Data Structures
+----------------------------------------
+Sorry, you have already borrowed 3 books
+Student 101 has returned System Programming
+Student 101 has borrowed 2 books
+3 copies of System Programming are now available in the library
+Logic Design is borrowed by Student 105
+Student 105 has borrowed 1 book
+Logic Design is now deleted from the library
+Student 101 has returned Compiler Construction
+Student 101 has borrowed 1 books
+3 copies of Compiler Construction are now available in the library
+Student 105 has returned Logic Design
+Student 105 has borrowed 0 books
+Logic Design is added in the library: 1 copy in the library
